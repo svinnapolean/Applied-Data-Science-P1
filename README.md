@@ -1,4 +1,4 @@
-# Applied Data Science with Python – Final Project  
+# Applied Data Science with Python
 ## __Sales Analysis for AAL - Q4 2020__ 
 
 ## Project Overview
@@ -1556,5 +1556,9 @@ plt.show()
 
 
 ```python
+
+### 📬 Contact
+
+For questions or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vincent-napolean-susai/) or open an issue.
 
 ```
